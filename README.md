@@ -41,7 +41,7 @@
 - 초기 세팅이 다 끝났다면 어떻게 플레이 해야하는지 배워야겠죠?
 
 ### 조작 방법
-조작 방법은 [이곳](https://shintesh.notion.site/Element-Quest-9831d6947fd54e9e9ee85ea735d38632)에서 확인해주시길 바랍니다.
+조작 방법은 [이곳](https://www.notion.so/Element-Quest-9831d6947fd54e9e9ee85ea735d38632?pvs=4)에서 확인해주시길 바랍니다.
 
 ## 제작한 컨텐츠들
 
