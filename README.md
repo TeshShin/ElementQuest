@@ -33,8 +33,9 @@
 1. Releases에서 ElementQuest.apk  파일을 다운 받습니다.
 2. oculus developer 프로그램을 실행해서 본인의 오큘러스와 연동하고 이를 통해 apk파일을 넘겨줍니다.
     
-    ※  Training.apk 파일은 ⚔️[**훈련장입니다**]⚔️
-    
+    ※ Training.apk 파일은 ⚔️[**훈련장입니다**]⚔️
+   
+    ※ zip은 프로젝트 파일입니다.
 
 ## 인게임 플레이
 
